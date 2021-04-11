@@ -1,0 +1,30 @@
+﻿  Actor.cpp
+  Background.cpp
+  Charater.cpp
+  Enemy.cpp
+  EnemyIntercept.cpp
+  FreeType.cpp
+  Goal.cpp
+  MovingPlatform.cpp
+  screen.cpp
+  template_with_console.cpp
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(273,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(425,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(425,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(468,24): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(475,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(476,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(486,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(487,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(607,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexander\Documents\work\programming\2D platformer\template_with_console.cpp(687,36): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  Generating code
+  445 of 456 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sample.vcxproj -> C:\Users\Alexander\Documents\work\programming\2D platformer\Release\sample.exe

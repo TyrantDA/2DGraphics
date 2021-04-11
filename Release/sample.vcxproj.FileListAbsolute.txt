@@ -1,0 +1,2 @@
+C:\Users\Alexander\Desktop\programming\2D platformer\Release\sample.exe
+C:\Users\Alexander\Documents\work\programming\2D platformer\Release\sample.exe
